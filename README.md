@@ -1,6 +1,6 @@
 # Desafios DIO
 
-Este repositório contém soluções para os desafios da plataforma DIO (Digital Innovation One). Aqui, você encontrará códigos e implementações para diversas questões, organizadas por linguagem de programação e tema.
+Este repositório contém soluções para os desafios da plataforma DIO (Digital Innovation One). Aqui, você encontrará códigos e implementações para diversas questões, organizadas por Desafios
 
 ## Estrutura do Repositório
 
